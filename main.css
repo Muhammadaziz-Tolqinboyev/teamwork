@@ -11,3 +11,11 @@ body {
   margin-inline: auto;
   padding-inline: 20px;
 }
+
+.site-main__uzb-money {
+  background-image: url("./hand-drawn-money-drawing-illustration_23-2150927147.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 150px;
+}
